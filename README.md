@@ -1,3 +1,5 @@
+![logo fjmduran](https://fjmduran.com/favicon.png)
+
 ### 👋 Hola, soy Francisco Jesús Martínez Durán
 
 ### ⚡ [Un resumen de mis conocimientos](https://fjmduran.com/sobre-mi)
