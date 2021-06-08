@@ -5,7 +5,7 @@
 
 ### 👋 Hola, soy Francisco Jesús Martínez Durán
 
-### ⚡ [Un resumen de mis conocimientos](https://fjmduran.com/sobre-mi)
+### 😄 [Sobre mí](https://fjmduran.com/sobre-mi)
 
 ### 💬 [Contacta conmigo](https://fjmduran.com/contacto)
 
