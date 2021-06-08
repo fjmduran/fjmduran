@@ -5,7 +5,7 @@
 
 ### 👋 Hola, soy Francisco Jesús Martínez Durán
 
-### :neckbeard: [Sobre mí](https://fjmduran.com/sobre-mi)
+### :nerd_face: [Sobre mí](https://fjmduran.com/sobre-mi)
 
 ### 💬 [Contacta conmigo](https://fjmduran.com/contacto) emoticon
 
