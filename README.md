@@ -1,4 +1,4 @@
-<div style="text-align:right">
+<div style="text-align:right;">
   <img src="https://fjmduran.com/favicon.png" alt="logo fjmduran" width="120"/>  
 </div>
 
