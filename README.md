@@ -1,5 +1,7 @@
 ### 👋 Hola, soy Francisco Jesús Martínez Durán
 
+### [Así es como me introduje en la programación](https://fjmduran.com/sobre-mi)
+
 <!--
 **fjmduran/fjmduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
