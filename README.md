@@ -1,4 +1,7 @@
-<img src="https://fjmduran.com/favicon.png" alt="logo fjmduran" width="200"/>
+<div style="text-align=right">
+  <img src="https://fjmduran.com/favicon.png" alt="logo fjmduran" width="120"/>  
+</div>
+
 
 ### 👋 Hola, soy Francisco Jesús Martínez Durán
 
