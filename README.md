@@ -5,9 +5,9 @@
 
 ### 👋 Hola, soy Francisco Jesús Martínez Durán
 
-### 😄 [Sobre mí](https://fjmduran.com/sobre-mi)
+### :neckbeard: [Sobre mí](https://fjmduran.com/sobre-mi)
 
-### 💬 [Contacta conmigo](https://fjmduran.com/contacto)
+### 💬 [Contacta conmigo](https://fjmduran.com/contacto) emoticon
 
 <!--
 **fjmduran/fjmduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
