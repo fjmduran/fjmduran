@@ -2,6 +2,8 @@
 
 ### ⚡ [Un resumen de mis conocimientos](https://fjmduran.com/sobre-mi)
 
+### 💬 [Contacta conmigo](https://fjmduran.com/contacto)
+
 <!--
 **fjmduran/fjmduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
